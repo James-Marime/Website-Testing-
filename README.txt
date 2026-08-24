@@ -1,20 +1,12 @@
-RUBI HOMES WEBSITE — DEPLOYMENT NOTES
+REHOBOTH BLESSED ASSURANCE CBO — WEBSITE V1
 
-1. This is a static website and can be deployed directly to Netlify, GitHub Pages, Hostinger, or any standard web host.
-2. Main file: index.html
-3. Contact numbers used from the supplied marketing artwork:
-   - 0735 228 617
-   - 0701 968 308
-4. Location used from the supplied marketing artwork:
-   - Nyanchwa, Chiefs Camp
-5. The booking form opens a WhatsApp message to +254 735 228 617.
-6. Before final go-live, confirm with Rubi Homes:
-   - Exact property address / Google Maps link
-   - Rates and room/apartment types
-   - Check-in/check-out times
-   - Cancellation policy
-   - Whether they want the second number used for WhatsApp
-   - Airbnb/Booking.com listing links, if any
-   - Social media links
+Open index.html in a browser to preview.
 
-No backend is required for the current version.
+Before public launch:
+1. Add the live GoFundMe URL to the primary campaign button.
+2. Confirm final immediate-needs total and replace KSh 804,000 if required.
+3. Add official CBO registration details/certificate if available.
+4. Add domain/hosting and analytics.
+5. Consider adding a privacy-safe transparency/update section as fundraising progresses.
+
+The police-report image was intentionally excluded from the public website draft.
