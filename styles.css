@@ -18,3 +18,14 @@
 .budget-total strong{font:700 40px "Playfair Display";margin-top:4px}
 .budget-total p{margin:0;color:#d8e1dd}
 @media(max-width:850px){.budget-title{align-items:flex-start;flex-direction:column;gap:5px}.budget-total{grid-template-columns:1fr;padding:30px}.budget-total .btn{justify-self:start}}
+
+.shelter-video{margin-top:28px;background:#f1eadf;padding:30px;display:grid;grid-template-columns:.8fr 1.2fr;gap:35px;align-items:center}
+.shelter-video h3{font:700 34px "Playfair Display";color:#183f31;margin:8px 0}
+.shelter-video video{width:100%;max-height:520px;background:#000}
+.daily-life{background:#f6f2e9}
+.video-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px}
+.video-grid article{background:#fff;border:1px solid #e6e0d5;padding:14px}
+.video-grid video{width:100%;aspect-ratio:16/9;object-fit:cover;background:#000}
+.video-grid h3{font:700 24px "Playfair Display";color:#183f31;margin:14px 8px 6px}
+.video-grid p{margin:0 8px 12px;color:#5d6863}
+@media(max-width:850px){.shelter-video,.video-grid{grid-template-columns:1fr}.shelter-video{padding:22px}}

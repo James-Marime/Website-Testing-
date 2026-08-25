@@ -12,3 +12,10 @@ Before public launch:
 The police-report image was intentionally excluded from the public website draft.
 
 V1.2: Added full itemized immediate-needs budget with category subtotals and corrected calculated total of KSh 807,300.
+
+V1.5 updates:
+- All items previously calculated for 35 children are now budgeted for 40.
+- Immediate-needs budget is KSh 855,300.
+- Live GoFundMe URL activated on header, hero, campaign and budget CTAs.
+- Five recent shelter/construction photos incorporated.
+- Ten newly supplied videos added, including daily life, meals, water collection and shelter/building conditions.
